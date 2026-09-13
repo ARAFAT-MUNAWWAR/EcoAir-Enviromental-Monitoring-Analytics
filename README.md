@@ -8,10 +8,13 @@ The project analyzes air-quality monitoring, compliance, project performance, se
 
 ## 📷 Dashboard Preview
 
+### Dashboard
 ![Executive Dashboard](Dashboard.JPG)
 
+### AQI
 ![AQI & Compliance](AQI.JPG)
 
+### Project
 ![Project & Monitoring](Project.JPG)
 
 ## 🛠️ Tools & Techniques
