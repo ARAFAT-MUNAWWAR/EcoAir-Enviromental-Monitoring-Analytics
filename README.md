@@ -6,6 +6,14 @@ ECOAIR is a fictional environmental monitoring and analytics project developed i
 
 The project analyzes air-quality monitoring, compliance, project performance, sensor status, monitoring coverage and operational reliability.
 
+## 📷 Dashboard Preview
+
+![Executive Dashboard](Dashboard.JPG)
+
+![AQI & Compliance](AQI.JPG)
+
+![Project & Monitoring](Project.JPG)
+
 ## 🛠️ Tools & Techniques
 
 - Excel LTSC 2024
@@ -38,13 +46,6 @@ The project analyzes air-quality monitoring, compliance, project performance, se
 - 76 high-alert records
 - 203 Poor/Very Poor AQI records
 
-## 📷 Dashboard Preview
-
-![Executive Dashboard](Dashboard.JPG)
-
-![AQI & Compliance](AQI.JPG)
-
-![Project & Monitoring](Project.JPG)
 ## 🔄 Project Approach
 
 **Data → Validation → Data Model → Analysis → KPI → Dashboard → Insights**
