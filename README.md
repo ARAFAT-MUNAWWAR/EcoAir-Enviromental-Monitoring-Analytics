@@ -6,7 +6,7 @@ ECOAIR is a fictional environmental monitoring and analytics project developed i
 
 The project analyzes air-quality monitoring, compliance, project performance, sensor status, monitoring coverage and operational reliability.
 
-## 📷 Dashboard Preview
+## 📷 Project Preview
 
 ### Dashboard
 ![Executive Dashboard](Dashboard.JPG)
