@@ -40,15 +40,11 @@ The project analyzes air-quality monitoring, compliance, project performance, se
 
 ## 📷 Dashboard Preview
 
-### Executive Dashboard
-![Executive Dashboard](Executive_Dashboard.JPG)
+![Executive Dashboard](Dashboard.JPG)
 
-### AQI & Compliance
-![AQI & Compliance](AQI_Compliance.JPG)
+![AQI & Compliance](AQI.JPG)
 
-### Project & Monitoring
-![Project & Monitoring](Project_Monitoring.JPG)
-
+![Project & Monitoring](Project.JPG)
 ## 🔄 Project Approach
 
 **Data → Validation → Data Model → Analysis → KPI → Dashboard → Insights**
