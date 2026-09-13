@@ -8,15 +8,20 @@ The project analyzes air-quality monitoring, compliance, project performance, se
 
 ## 📷 Project Preview
 
-### Dashboard
+### 1. Executive Dashboard
+Provides an overview of project performance, contract value, project status, monitoring stations, AQI and overall monitoring coverage.
+
 ![Executive Dashboard](Dashboard.JPG)
 
-### AQI
+### 2. AQI & Compliance
+Analyzes air-quality categories, average AQI by state and city, compliance status, and alert severity to identify environmental and compliance risks.
+
 ![AQI & Compliance](AQI.JPG)
 
-### Project
-![Project & Monitoring](Project.JPG)
+### 3. Project & Monitoring
+Tracks monitoring records, sensor status, monitoring coverage, downtime, station distribution and top-performing projects and stations.
 
+![Project & Monitoring](Project.JPG)
 ## 🛠️ Tools & Techniques
 
 - Excel LTSC 2024
